@@ -1,3 +1,14 @@
+# Welcome to my GitHub profile!
+ <div style="display:flex; align-items:center;">
+    <img src="https://github.com/TecnicalIt/profile/blob/main/IMG_8044-removebg.png" alt="IMG_8044-removebg.png" width="300" height="300" style="margin-right:20px;">
+    <img src="https://github.com/TecnicalIt/profile/blob/main/download.jpg" alt="download.jpg" width="300" height="300" style="margin-right:20px;">
+    <img src="https://github.com/TecnicalIt/profile/blob/main/OIP%20(2).jpg" alt="OIP%20(2).jpg" width="300" height="300" style="margin-right:20px;">
+    
+</div>
+
+## About me
+
+
 <h1 align="center">Hi 👋, I'm Nousad Mia</h1>
 <h3 align="center">A Passionate Data Scientist From Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tecnicalit&label=Profile%20views&color=0e75b6&style=flat" alt="tecnicalit" /> </p>
