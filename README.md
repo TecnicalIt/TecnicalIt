@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
  <div style="display:flex; align-items:center;">
-    <img src="https://github.com/TecnicalIt/profile/blob/main/IMG_8044-removebg.png" alt="IMG_8044-removebg.png" width="300" height="300" style="margin-right:20px;">
+   
 
     
 </div>
